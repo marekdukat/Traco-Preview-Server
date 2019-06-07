@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traco Subtitles Viewer", "Traco Subtitles Viewer\Traco Subtitles Viewer.csproj", "{57A77E3E-800E-42F1-B11C-9F543A13DC00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traco Preview Server", "Traco Subtitles Viewer\Traco Preview Server.csproj", "{57A77E3E-800E-42F1-B11C-9F543A13DC00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
